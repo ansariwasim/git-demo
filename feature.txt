@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I want to add to some feature for client enterface smooth. button
+=======
+I want to add to some feature for client enterface smooth. form
+>>>>>>> feature
